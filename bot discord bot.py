@@ -35,4 +35,4 @@ def gen_pass(lunghezza_password):
     return password
 
 
-bot.run("MTIwMzAyMDYwNDAwMTg4NjIwOQ.GlIfVj.zqErpBoPCd5gE1VZAjk4YudDXNmlN-s4E705CE")
+bot.run("token")
